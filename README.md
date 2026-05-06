@@ -1,7 +1,7 @@
 This repository is a sample to help students implement inheritance using multiple files.
 
 #How to compile using VScode.
-g++ Person.cpp Student.cpp Techer.cpp -o program
+g++ main.cpp Person.cpp Student.cpp Techer.cpp -o program
 run <./program>
 
 #To compile on Dev c++
